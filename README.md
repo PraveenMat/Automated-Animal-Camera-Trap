@@ -49,4 +49,4 @@ YOLOv8x outperforms VGG16 overall, especially in detecting multiple animals per 
 
 ---
 ## License
-This repository is released under the **MIT License** –
+This repository is released under the **MIT License** – see LICENSE for details.
