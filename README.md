@@ -38,7 +38,7 @@ pip install deep_sort_realtime pytorchvideo scikit-learn openpyxl grad-cam
 
 ### Results (51 test videos)
 
-YOLOv8x outperforms VGG16 overall, especially in detecting multiple animals per frame, but still struggles with small, distant or night‑time targets. Behaviour recognition is limited by the use of human‑action labels.
+YOLOv8x outperforms VGG16 overall, especially in detecting multiple animals per frame, but still struggles with small, distant or night‑time targets. The use of human‑action labels limits behaviour recognition.
 
 ---
 ## Limitations & Future Work
@@ -49,4 +49,4 @@ YOLOv8x outperforms VGG16 overall, especially in detecting multiple animals per 
 
 ---
 ## License
-This repository is released under the **MIT License** – see LICENSE for details.
+All Rights Reserved.
